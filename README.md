@@ -15,8 +15,10 @@ Certified and executed on **October 3, 2025**
 under the authority of **Kydras Systems Inc.**
 
 **Signed:**  
-/s/ Kyle Rasmussen, President
-/s/ Heather Rasmussen, Secretary
+/s/ Kyle Rasmussen – President
+/s/ Heather Rasmussen – Secretary
+Kydras Systems Inc.
+
 
 ### 🔗 Authenticity
 QR code and digital signature link:  
