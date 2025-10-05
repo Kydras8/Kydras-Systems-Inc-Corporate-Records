@@ -17,3 +17,7 @@ under the authority of **Kydras Systems Inc.**
 **Signed:**  
 /s/ Kyle Rasmussen, President
 /s/ Heather Rasmussen, Secretary
+
+### 🔗 Authenticity
+QR code and digital signature link:  
+👉 [https://github.com/Kydras-Systems-Inc/Corporate-Records](https://github.com/Kydras-Systems-Inc/Corporate-Records)
