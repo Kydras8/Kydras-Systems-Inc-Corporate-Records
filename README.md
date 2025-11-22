@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 # Kydras-Systems-Inc-Corporate-Records# Kydras Systems Inc. — Certified Corporate Records (v14)
 
 This repository contains the official and certified corporate records for  
@@ -23,3 +31,4 @@ Kydras Systems Inc.
 ### 🔗 Authenticity
 QR code and digital signature link:  
 👉 [https://github.com/Kydras-Systems-Inc/Corporate-Records](https://github.com/Kydras-Systems-Inc/Corporate-Records)
+
